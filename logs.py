@@ -8,7 +8,9 @@ ws = Workspace.from_config()
 name = "project-model-deploy"
 
 # load existing web service
-service = Webservice(name="project-model-deploy", workspace=ws)
+service = Webservice(name=name, workspace=ws)
+service.update(enable_app_insights=True)
+
 logs = service.get_logs()
 
 for line in logs.split('\n'):
