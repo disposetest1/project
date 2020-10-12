@@ -1,6 +1,0 @@
-AzureUserName= odl_user_120470@udacitylabs.onmicrosoft.com
-AzurePassword= yzmd39HGY*6T
-AzureTenantID= 660b3398-b80e-49d2-bc5b-ac1dc93b5254
-AzureSubscriptionID= c1dcf523-8ab0-429f-8dba-143a6c49ec84
-DeploymentID= 120470
-
