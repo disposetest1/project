@@ -71,6 +71,10 @@ In this project, we are going to create and run an AUto ML Experiment. Its Best 
 
 ![alt text](https://github.com/disposetest1/project/blob/master/8_pipeline_created.jpg)
 
+- The execution details can be seen under the "Use run details tab" of the Notebook.
+
+![alt text](https://github.com/disposetest1/project/blob/master/12_run_details.jpg)
+
 
 - The pipeline is also published, all this using the python SDK and  a JYUPITER playbook  which makes use of the bank marketing data set;
 
