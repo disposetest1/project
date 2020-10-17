@@ -1,8 +1,16 @@
-autoauto- [Operationalizing Machine Learnig](#operationalizing-machine-learnig)auto    - [Architectural Diagram](#architectural-diagram)auto    - [Key Steps](#key-steps)auto    - [Future Improvement.](#future-improvement)auto    - [Screen Recording](#screen-recording)autoauto
-
-
-
 # Operationalizing Machine Learnig
+
+# Table Of Contents
+
+- [Operationalizing Machine Learnig](#operationalizing-machine-learnig)    
+- [Architectural Diagram](#architectural-diagram)    
+- [Key Steps](#key-steps)    
+- [Future Improvement.](#future-improvement)    
+- [Screen Recording](#screen-recording)
+
+
+
+# Overview
 
 In this project we are going to create and run an AUto ML Experiment. Its Best model will then be deployed and the Swagger documentation of the model will be accessed in order to consume and update write data through the model endpoints. A pipeline will the be created and published using the Python SDK.
 
@@ -87,4 +95,4 @@ In this project we are going to create and run an AUto ML Experiment. Its Best m
 - To improve this project in the futur, a deeper and more accurate experiment should be created in order to have better model results.
 
 ## Screen Recording
-https://youtu.be/wbO601xOD90
+Here is a [Screen Recording](https://youtu.be/wbO601xOD90) for this project
